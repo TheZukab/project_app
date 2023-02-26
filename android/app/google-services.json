@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781365315991",
+    "project_id": "flutterproject-e9737",
+    "storage_bucket": "flutterproject-e9737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781365315991:android:12fc46ce6539faeeb75cd2",
+        "android_client_info": {
+          "package_name": "com.example.alfa_romeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781365315991-5mqun5v0ine5r85q2h852tvkej4rnq71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGK6S4wC_-kdYACIxo0PqKlkgWCfNut4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781365315991-5mqun5v0ine5r85q2h852tvkej4rnq71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
